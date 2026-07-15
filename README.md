@@ -1,9 +1,9 @@
-# NLP Assignments – Text Processing & Sentiment Analysis
+# NLP – Text Processing & Sentiment Analysis
 The assignments cover the complete text preprocessing pipeline and the implementation of a basic sentiment analysis model using machine learning.
 
-## Assignment 1 — NLP Preprocessing Pipeline 
+## 1 — NLP Preprocessing Pipeline 
 
-*This assignment focuses on transforming raw text into a clean, machine-readable format.
+*This  focuses on transforming raw text into a clean, machine-readable format.
 A custom paragraph is processed step by step using core NLP techniques.*
 
 ##### *🔹 Steps Covered*
@@ -28,7 +28,7 @@ Example: studies → study, better → good*
 
 *To understand how text is cleaned and prepared before applying any NLP or ML model.*
 
-## Assignment 2 — Sentiment Analysis using ML + NLP
+## 2 — Sentiment Analysis using ML + NLP
 
 *This assignment builds a simple sentiment classification model.
 A small dataset (positive + negative text) is created from different styles of sources.*
